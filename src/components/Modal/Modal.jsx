@@ -1,10 +1,5 @@
 import React from 'react';
-import {
-  useLocation,
-  useParams,
-  useSearchParams,
-  Link,
-} from 'react-router-dom';
+import { useLocation, useSearchParams, Link } from 'react-router-dom';
 
 export const Modal = () => {
   // const { id } = useParams();
